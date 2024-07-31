@@ -1,0 +1,1 @@
+{"formula_set": ["(A >> B)", "(C >> D)", "(F >> G)", "(B >> C)", "(G >> H)", "(D >> F)"], "consequence_formula": "(A >> H)", "end": false, "number_of_steps": 0, "steps": [], "task_name": "{(A >> B), (C >> D), (F >> G), (B >> C), (G >> H), (D >> F)} |- (A >> H)", "added_axioms": []}

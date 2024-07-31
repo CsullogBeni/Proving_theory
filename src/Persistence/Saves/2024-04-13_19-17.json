@@ -1,0 +1,1 @@
+{"formula_set": ["~(A & ~C)", "(B >> C)", "(~~A | ~~B)"], "consequence_formula": "C", "end": false, "number_of_steps": 1, "steps": [[0, "(B >> C)", "Actions.HYP", "", 0, 0]], "task_name": "{~(A & ~C), (B >> C), (~~A | ~~B)} |- C", "added_axioms": []}

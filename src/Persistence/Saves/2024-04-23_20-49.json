@@ -1,0 +1,1 @@
+{"formula_set": ["(A & B)", "(B >> C)", "D"], "consequence_formula": "((C & A) | ~D)", "end": false, "number_of_steps": 1, "steps": [[0, "(~D >> ((C & A) | ~D))", "Actions.AXIOM", "[AXIOM: 12. A=(C & A) B=~D]", 0, 0]], "task_name": "{(A & B), (B >> C), D} |- ((C & A) | ~D)", "added_axioms": []}

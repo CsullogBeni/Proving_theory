@@ -1,0 +1,7 @@
+{
+  "formula_set": [
+    "(A >> B)",
+    "A"
+  ],
+  "consequence_formula": "B"
+}

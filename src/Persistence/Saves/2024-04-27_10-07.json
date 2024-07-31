@@ -1,0 +1,1 @@
+{"formula_set": ["(B >> (B >> B))", "(D >> (D >> D))", "(F >> (F >> F))", "(A >> (B >> A))"], "consequence_formula": "(A >> A)", "end": true, "number_of_steps": 1, "steps": [[0, "(A >> A)", "Actions.AXIOM", "[AXIOM: 4. A=A]", 0, 0]], "task_name": "{(B >> (B >> B)), (D >> (D >> D)), (F >> (F >> F)), (A >> (B >> A))} |- (A >> A)", "added_axioms": []}

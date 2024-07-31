@@ -1,0 +1,1 @@
+{"formula_set": ["(A >> B)", "(B >> C)"], "consequence_formula": "(A >> C)", "end": true, "number_of_steps": 3, "steps": [[0, "(A >> B)", "Actions.HYP", "", 0, 0], [1, "(B >> C)", "Actions.HYP", "", 0, 0], [2, "(A >> C)", "Actions.CS", "", 0, 1]], "task_name": "{(A >> B), (B >> C)} |- (A >> C)", "added_axioms": []}
