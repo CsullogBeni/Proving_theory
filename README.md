@@ -53,10 +53,10 @@ In the proving area, users can use the hypothesis axiom and various detaching ru
 
 On the loading screen, users can load a previous derivation of a conclusion. The buttons display the saving date, time, and the conclusion. Saves can be deleted.
 
-** Maintainers
+## Maintainers
 
 Benedek Sz. Csullog (benedek.csullog@gmail.com)
 
-** Feedback
+## Feedback
 
 Please use this section to describe how you would like other developers/users to contact you or provide feedback.
